@@ -8,7 +8,7 @@ Saya Rahmat Naufal
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Rahmat-bot/RahmatNaufal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RahmatNaufal/RahmatNaufal/blob/output/github-contribution-grid-snake.svg)
 
 ## 💻 Skills
 
