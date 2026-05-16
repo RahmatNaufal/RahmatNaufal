@@ -6,6 +6,10 @@ Saya Rahmat Naufal
 - Belajar Bahasa C
 - Belajar Web Development
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Rahmat-bot/RahmatNaufal/blob/output/github-contribution-grid-snake.svg)
+
 ## 💻 Skills
 
 <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,ae,Ps" />
