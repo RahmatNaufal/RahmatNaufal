@@ -5,3 +5,7 @@ Saya Rahmat Naufal
 - Mahasiswa Informatika
 - Belajar Bahasa C
 - Belajar Web Development
+
+## 💻 Skills
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react" />
