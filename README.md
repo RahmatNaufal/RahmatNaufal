@@ -9,6 +9,3 @@ Saya Rahmat Naufal
 ## 💻 Skills
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react" />
-
-## sosial media
-instagram | facebook
