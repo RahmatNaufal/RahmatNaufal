@@ -1,9 +1,3 @@
-<!-- ================= HEADER GIF ================= -->
-
-<p align="center">
-  <img src="Project Coding GIF.gif" width="480" alt="Coding Animation">
-</p>
-
 <h1 align="center">Hi 👋, I'm Rahmat Naufal</h1>
 
 <h3 align="center">
@@ -12,6 +6,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Informatics+Engineering+Student;Learning+Python+%26+SQL;Exploring+Data+Analysis;Building+Projects+and+Learning" />
+</p>
+
+<p align="center">
+  <img src="Project Coding GIF.gif" width="480" alt="Coding Animation">
 </p>
 
 <!-- ================= ABOUT ME ================= -->
